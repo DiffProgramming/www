@@ -3,7 +3,8 @@ layout: page
 title: Home
 ---
 
-# Differentiable Programming <span style="color:red">at <a href="https://nips.cc/">NeurIPS 2021</a></span>
+<center> <h1> Differentiable Programming </h1> </center>
+<center> <h2> A <a href="https://nips.cc/">NeurIPS 2021</a> Workshop </h2> </center>
 
 ### Workshop Overview
 
