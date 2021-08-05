@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Home"
       url: /
     - title: "Call for Papers"
-      url: /call
+      url: /call-for-papers
     - title: "Organizers"
       url: /organizers
 en-US:
