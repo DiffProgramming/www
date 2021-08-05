@@ -47,6 +47,7 @@ Maria is a final year PhD student at the University of Edinburgh. Her research i
 <img class="mx-auto rounded-circle" src="/images/jan-huckelheim.jpg" alt="" >
 <br/><br/>
 <ul class="social-buttonss">
+<li class="list-inline-item"><a href="https://twitter.com/jhueckelheim"><i class="fab fa-twitter"></i></a></li>
 <li class="list-inline-item"><a href="https://www.anl.gov/profile/jan-christian-hueckelheim"><i class="fas fa-globe"></i></a></li>
 </ul>
 </div>
@@ -80,6 +81,7 @@ William is a final year Ph.D. Candidate at MIT, where he also received his M.Eng
 <img class="mx-auto rounded-circle" src="/images/sri-hari-krishna-narayanan.jpg" alt="" >
 <br/><br/>
 <ul class="social-buttonss">
+<li class="list-inline-item"><a href="https://twitter.com/nsriharikrishna"><i class="fab fa-twitter"></i></a></li>
 <li class="list-inline-item"><a href="https://www.mcs.anl.gov/~snarayan/"><i class="fas fa-globe"></i></a></li>
 </ul>
 </div>
