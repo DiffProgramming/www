@@ -18,7 +18,6 @@ Differentiable programming allows for automatically computing derivatives of fun
 Our workshop aims to provide a forum to narrow the gaps between differentiable and probabilistic languages design, efficient automatic differentiation engines and higher-level applications of differentiable programming. We hope this workshop will harness a closer collaboration between language designers and domain scientists by bringing together a diverse part of the differentiable programming community including people working on core automatic differentiation tools, higher level frameworks that rely upon AD (such as probabilistic programming and differentiable simulators), and applications that use differentiable programs to solve scientific problems.
 </p>
 
-<p align="justify">
 The explicit goals of the workshop are to:
 * Foster closer collaboration and synergies between the individual communities and to seek to improve the gap between differentiable programming practice and implementation;
 * Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
@@ -47,5 +46,5 @@ The explicit goals of the workshop are to:
   * Differentiable Molecular Dynamics
   * Differentiable Physics in Robotics
   * End-to-end Model-Based Reinforcement Learning
-  
+
 </center>
