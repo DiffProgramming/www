@@ -3,11 +3,12 @@ layout: page
 title: Home
 ---
 
-<center><h1> Differentiable Programming Workshop</h1><></center>
+<center> <h1> Differentiable Programming </h1> </center>
+<center> <h2> A <a href="https://nips.cc/">NeurIPS 2021</a> Workshop </h2> </center>
 
-## A NeurIPS 2021 Workshop
+<br/>
 
-### Workshop Overview
+<center> <h3> Workshop Overview </h3> </center>
 
 Differentiable programming allows for automatically computing derivatives of functions within a high-level language. It has become increasingly popular within the machine learning (ML) community: differentiable programming has been used within backpropagation of neural networks, probabilistic programming, and Bayesian inference. Fundamentally, differentiable programming frameworks empower machine learning and its applications: the availability of efficient and composable automatic differentiation (AD) tools has led to advances in optimization, differentiable simulators, engineering, and science. While AD tools have greatly increased the productivity of ML scientists and practitioners, many problems remain unsolved. Crucially, there is little communication between the broad group of AD users, the programming languages researchers, and the differentiable programming developers, resulting in them working in isolation.
 
@@ -18,9 +19,9 @@ The explicit goals of the workshop are to:
 * Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
 * Highlight differentiable techniques of individual domains, and the potential they hold for other fields.
 
-<br/><br/>
+<br/>
 
-### Topics of Interest
+<center> <h3> Topics of Interest </h3> </center>
 
 * Implementation and Advancements in Automatic Differentiation Frameworks and Tools
 * Advancements in Differentiable Programming through
