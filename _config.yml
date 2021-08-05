@@ -4,3 +4,7 @@ baseurl: "/"
 
 title: Differentiable Programming
 locale: "en-US"
+
+logo:
+  path: images\logo.png
+  height: 52
