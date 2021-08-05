@@ -23,13 +23,14 @@ The explicit goals of the workshop are to:
 * Foster closer collaboration and synergies between the individual communities and to seek to improve the gap between differentiable programming practice and implementation;
 * Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
 * Highlight differentiable techniques of individual domains, and the potential they hold for other fields.
-</p>
+
 
 <br/>
 
 <center> <h3> Topics of Interest </h3> </center>
 
 <center>
+
 * Implementation and Advancements in Automatic Differentiation Frameworks and Tools
 * Advancements in Differentiable Programming through
   * Language Design
@@ -46,4 +47,5 @@ The explicit goals of the workshop are to:
   * Differentiable Molecular Dynamics
   * Differentiable Physics in Robotics
   * End-to-end Model-Based Reinforcement Learning
+  
 </center>
