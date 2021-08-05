@@ -4,7 +4,7 @@ title: Home
 ---
 
 <center> <h1> Differentiable Programming </h1> </center>
-<center> <h2> A <a href="https://nips.cc/">NeurIPS 2021</a> Workshop </h2> </center>
+<center> <h3> A <a href="https://nips.cc/">NeurIPS 2021</a> Workshop </h3> </center>
 
 <br/>
 
