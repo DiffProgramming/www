@@ -9,7 +9,7 @@ title: Call for Papers
 * **Submit at**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DiffProgramming)
 * **Acceptance notification**: Fri Oct 22, 2021
 
-
+<br>
 ### Submission instructions
 
 We welcome submissions in the broad area of differentiable programming, including (but not limited to) work related to: 
@@ -23,4 +23,3 @@ We would like to facilitate a discussion of the latest advancements, questions, 
 Papers should be of up to 6 pages (not including references) and they should use the [NeurIPS 2021 LaTeX template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). 
 
 Submitted papers are non-archival. The reviewing process will be double-blind and will assess the papers based on clarity, novelty, and relevance to the broad field of differentiable programming. 
-
