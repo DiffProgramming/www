@@ -3,7 +3,8 @@ layout: page
 title: Home
 ---
 
-# Differentiable Programming Workshop
+<center><h1> Differentiable Programming Workshop</h1><></center>
+
 ## A NeurIPS 2021 Workshop
 
 ### Workshop Overview
