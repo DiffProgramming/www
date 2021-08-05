@@ -3,8 +3,7 @@ layout: page
 title: Home
 ---
 
-# Differentiable Programming Workshop
-## A NeurIPS 2021 Workshop
+# Differentiable Programming <span style="color:red">at <a href="https://nips.cc/">NeurIPS 2021</a></span>
 
 ### Workshop Overview
 
@@ -17,7 +16,7 @@ The explicit goals of the workshop are to:
 * Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
 * Highlight differentiable techniques of individual domains, and the potential they hold for other fields.
 
-<br/><br/>
+<br/>
 
 ### Topics of Interest
 
