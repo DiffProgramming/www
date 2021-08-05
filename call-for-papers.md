@@ -5,10 +5,11 @@ title: Call for Papers
 
 ### Call for Papers
 
-* **Submission deadline**: Fri Sep 10, 2021, 11:59 PM AoE
-* **Submit at**: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DiffProgramming)
-* **Acceptance notification**: Fri Oct 22, 2021
-
+<span style="font-size:16pt;">
+* **Submission deadline: Fri Sep 10, 2021, 11:59 PM AoE**
+* Submit at: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DiffProgramming)
+* Acceptance notification: Fri Oct 22, 2021
+</span>
 
 ### Submission instructions
 
