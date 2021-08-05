@@ -28,7 +28,6 @@ The explicit goals of the workshop are to:
 
 <center> <h3> Topics of Interest </h3> </center>
 
-<center>
 
 * Implementation and Advancements in Automatic Differentiation Frameworks and Tools
 * Advancements in Differentiable Programming through
@@ -46,5 +45,3 @@ The explicit goals of the workshop are to:
   * Differentiable Molecular Dynamics
   * Differentiable Physics in Robotics
   * End-to-end Model-Based Reinforcement Learning
-
-</center>
