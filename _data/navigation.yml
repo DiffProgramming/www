@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Home"
       url: /
+    - title: "Call for Papers"
+      url: /call
     - title: "Organizers"
       url: /organizers
 en-US:
