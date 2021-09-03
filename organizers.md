@@ -36,7 +36,7 @@ Assefaw is an associate professor in the School of Electrical Engineering and Co
 </div>
 <h4 align="left"> Maria I. Gorinova </h4>
 <p align="justify"> 
-Maria is a final year PhD student at the University of Edinburgh. Her research interests encompass mainly probabilistic programming and improving Bayesian inference for probabilistic programs through program analysis. More generally, she is interested in tools for machine learning and the way they can empower future research. She has developed SlicStan, a self-optimising and more composable version of the popular probabilistic programming language Stan (POPL '19), and has also contributed to the automatic reparametrization procedure of the deep probabilistic programming language Edward2 (ICML '20).
+Maria is a final year PhD student at the University of Edinburgh and a Machine Learning Research Engineer at Twitter Cortex. Her research interests encompass mainly probabilistic programming and improving Bayesian inference for probabilistic programs through program analysis. More generally, she is interested in tools for machine learning and the way they can empower future research. She has developed SlicStan, a self-optimising and more composable version of the popular probabilistic programming language Stan (POPL '19), and has also contributed to the automatic reparametrization procedure of the deep probabilistic programming language Edward2 (ICML '20). More recently, 
 </p></div></div>
 
 <br/><br/><br/><br/><br/>
