@@ -45,3 +45,11 @@ The explicit goals of the workshop are to:
   * Differentiable Molecular Dynamics
   * Differentiable Physics in Robotics
   * End-to-end Model-Based Reinforcement Learning
+
+
+<br/>
+
+<center> <h3> Code of Conduct </h3> </center>
+We are committed to providing a safe, harassment-free, and respectful environment for all participants, in accordance to <a href="https://nips.cc/public/CodeOfConduct">NeurIPS 2021 Code of Conduct</a>. 
+
+<br/>
