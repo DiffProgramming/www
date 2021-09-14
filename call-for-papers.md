@@ -23,4 +23,4 @@ We would like to facilitate a discussion of the latest advancements, questions, 
 
 Papers should be of up to 6 pages (not including references) and they should use the [NeurIPS 2021 LaTeX template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). 
 
-Submitted papers are non-archival. The reviewing process will be double-blind and will assess the papers based on clarity, novelty, and relevance to the broad field of differentiable programming. 
+Submitted papers are non-archival. The reviewing process will be double-blind and will assess the papers based on clarity, novelty, and relevance to the broad field of differentiable programming. Accepted papers will be presented as posters, and selected few papers will be accepted as contributed talks.
