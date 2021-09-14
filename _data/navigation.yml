@@ -15,6 +15,8 @@ en: &DEFAULT_EN
       url: /
     - title: "Call for Papers"
       url: /call-for-papers
+    - title: "Program committee"
+      url: /program-committee
     - title: "Organizers"
       url: /organizers
 en-US:
