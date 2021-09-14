@@ -14,6 +14,7 @@ title: Call for Papers
 
 We welcome submissions in the broad area of differentiable programming, including (but not limited to) work related to: 
 * Differentiable programming languages design, abstractions, frameworks and tools.
+* Advances in automatic differentiation tools.
 * Program analysis and transformations for differentiable programming.
 * Frameworks using differentiable programming such as probabilistic programming, differentiable simulators, and differentiable optimization.
 * Scientific and industrial applications, such as differentiable protein-folding, differentiable molecular dynamics, differentiable physics in robotics, end-to-end model-based reinforcement learning.
