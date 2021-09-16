@@ -9,6 +9,40 @@ title: Organizers
 
 <div class="container">
 <div class="team-member">
+<div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: -15px; text-align:center">
+<img class="mx-auto rounded-circle" src="/images/ludger-paehler.jpg" alt="" >
+<br/><br/>
+<ul class="social-buttonss">
+<li class="list-inline-item"><a href="https://twitter.com/ludgerpaehler"><i class="fab fa-twitter"></i></a></li>
+<li class="list-inline-item"><a href="https://ludgerpaehler.github.io/"><i class="fas fa-globe"></i></a></li>
+</ul>
+</div>
+<h4 align="left"> Ludger Paehler  </h4>
+<p align="justify">  
+Ludger is a fourth-year PhD candidate at TU Munich with a MSc in Applied Mathematics from Imperial College London. His research interests lie at the intersection of scientific computing and machine learning with a focus on enabling uncertainty quantification and Bayesian analysis in large-scale fluid dynamics applications on high-performance computing systems. He assisted in the organization of the "Machine Learning for Physical Systems" symposium at the ECCOMAS World Congress of Computational Mechanics.
+</p></div></div>
+
+<br/><br/><br/><br/><br/>
+
+<div class="container">
+<div class="team-member">
+<div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: 5px; text-align:center">
+<img class="mx-auto rounded-circle" src="/images/william-moses.jpg" alt="" >
+<br/><br/>
+<ul class="social-buttonss">
+<li class="list-inline-item"><a href="https://twitter.com/wsmoses"><i class="fab fa-twitter"></i></a></li>
+<li class="list-inline-item"><a href="https://wsmoses.com/"><i class="fas fa-globe"></i></a></li>
+</ul>
+</div>
+<h4 align="left"> William S. Moses </h4>
+<p align="justify"> 
+William is a final year Ph.D. Candidate at MIT, where he also received his M.Eng in electrical engineering and computer science (EECS) and B.S. in EECS and physics. His interests lie at the intersection of computer systems and machine learning, developing systems that automatically enable non-experts to leverage the latest in high-performance computing and ML. Within the field, he is known for developing Enzyme (NeurIPS '20), an automatic differentiation tool for LLVM capable of differentiating code in a variety of languages, after optimization, and for a variety of architectures (CPU and GPU). He has also worked on the Tensor Comprehensions framework for synthesizing high-performance GPU kernels of ML code, the Tapir compiler for parallel programs (best paper at PPoPP '17), and compilers that use machine learning to better optimize. He is a recipient of the U.S. Department of Energy Computational Science Graduate Fellowship and the Karl Taylor Compton Prize, MIT's highest student award.
+</p></div></div>
+
+<br/><br/><br/>
+
+<div class="container">
+<div class="team-member">
 <div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: 5px; text-align:center">
 <img class="mx-auto rounded-circle" src="/images/assefaw-gebremedhin.jpg" alt="" >
 <br/><br/>
@@ -60,23 +94,6 @@ Jan is an Assistant Computer Scientist at Argonne National Laboratory. He receiv
 
 <div class="container">
 <div class="team-member">
-<div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: 5px; text-align:center">
-<img class="mx-auto rounded-circle" src="/images/william-moses.jpg" alt="" >
-<br/><br/>
-<ul class="social-buttonss">
-<li class="list-inline-item"><a href="https://twitter.com/wsmoses"><i class="fab fa-twitter"></i></a></li>
-<li class="list-inline-item"><a href="https://wsmoses.com/"><i class="fas fa-globe"></i></a></li>
-</ul>
-</div>
-<h4 align="left"> William S. Moses </h4>
-<p align="justify"> 
-William is a final year Ph.D. Candidate at MIT, where he also received his M.Eng in electrical engineering and computer science (EECS) and B.S. in EECS and physics. His interests lie at the intersection of computer systems and machine learning, developing systems that automatically enable non-experts to leverage the latest in high-performance computing and ML. Within the field, he is known for developing Enzyme (NeurIPS '20), an automatic differentiation tool for LLVM capable of differentiating code in a variety of languages, after optimization, and for a variety of architectures (CPU and GPU). He has also worked on the Tensor Comprehensions framework for synthesizing high-performance GPU kernels of ML code, the Tapir compiler for parallel programs (best paper at PPoPP '17), and compilers that use machine learning to better optimize. He is a recipient of the U.S. Department of Energy Computational Science Graduate Fellowship and the Karl Taylor Compton Prize, MIT's highest student award.
-</p></div></div>
-
-<br/><br/><br/>
-
-<div class="container">
-<div class="team-member">
 <div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: -25px; text-align:center">
 <img class="mx-auto rounded-circle" src="/images/sri-hari-krishna-narayanan.jpg" alt="" >
 <br/><br/>
@@ -92,19 +109,4 @@ Sri is a Computer Scientist at Argonne National Laboratory. He conducts research
 
 <br/><br/><br/><br/><br/><br/>
 
-<div class="container">
-<div class="team-member">
-<div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: -15px; text-align:center">
-<img class="mx-auto rounded-circle" src="/images/ludger-paehler.jpg" alt="" >
-<br/><br/>
-<ul class="social-buttonss">
-<li class="list-inline-item"><a href="https://twitter.com/ludgerpaehler"><i class="fab fa-twitter"></i></a></li>
-<li class="list-inline-item"><a href="https://ludgerpaehler.github.io/"><i class="fas fa-globe"></i></a></li>
-</ul>
-</div>
-<h4 align="left"> Ludger Paehler  </h4>
-<p align="justify">  
-Ludger is a fourth-year PhD candidate at TU Munich with a MSc in Applied Mathematics from Imperial College London. His research interests lie at the intersection of scientific computing and machine learning with a focus on enabling uncertainty quantification and Bayesian analysis in large-scale fluid dynamics applications on high-performance computing systems. He assisted in the organization of the "Machine Learning for Physical Systems" symposium at the ECCOMAS World Congress of Computational Mechanics.
-</p></div></div>
 
-<br/><br/><br/><br/><br/>
