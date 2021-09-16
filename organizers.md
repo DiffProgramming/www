@@ -39,7 +39,7 @@ Ludger is a fourth-year PhD candidate at TU Munich with a MSc in Applied Mathema
 William is a final year Ph.D. Candidate at MIT, where he also received his M.Eng in electrical engineering and computer science (EECS) and B.S. in EECS and physics. His interests lie at the intersection of computer systems and machine learning, developing systems that automatically enable non-experts to leverage the latest in high-performance computing and ML. Within the field, he is known for developing Enzyme (NeurIPS '20), an automatic differentiation tool for LLVM capable of differentiating code in a variety of languages, after optimization, and for a variety of architectures (CPU and GPU). He has also worked on the Tensor Comprehensions framework for synthesizing high-performance GPU kernels of ML code, the Tapir compiler for parallel programs (best paper at PPoPP '17), and compilers that use machine learning to better optimize. He is a recipient of the U.S. Department of Energy Computational Science Graduate Fellowship and the Karl Taylor Compton Prize, MIT's highest student award.
 </p></div></div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div class="container">
 <div class="team-member">
@@ -73,7 +73,7 @@ Assefaw is an associate professor in the School of Electrical Engineering and Co
 Maria is a final year PhD student at the University of Edinburgh and a Machine Learning Research Engineer at Twitter Cortex. Her research interests encompass mainly probabilistic programming and improving Bayesian inference for probabilistic programs through program analysis. More generally, she is interested in tools for machine learning and the way they can empower future research. She has developed SlicStan, a self-optimising and more composable version of the popular probabilistic programming language Stan (POPL '19), and has also contributed to the automatic reparametrization procedure of the deep probabilistic programming language Edward2 (ICML '20). More recently, 
 </p></div></div>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <div class="container">
 <div class="team-member">
