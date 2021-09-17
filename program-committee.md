@@ -9,8 +9,6 @@ title: Organizers
 
 * Brandon Amos (Facebook) 
 * Atilim Guenes Baydin (Oxford) 
-* Mathieu Blondel (Google)
-* Johann Brehmer (Qualcomm)
 * Soumith Chintala (Facebook)
 * Zach Devito (Facebook)
 * Priya L. Donti (CMU)
