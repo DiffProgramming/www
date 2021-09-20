@@ -50,6 +50,11 @@ The explicit goals of the workshop are to:
 <br/>
 
 <center> <h3> Code of Conduct </h3> </center>
-We are committed to providing a safe, harassment-free, and respectful environment for all participants, in accordance to <a href="https://nips.cc/public/CodeOfConduct">NeurIPS 2021 Code of Conduct</a>. 
+We are committed to providing a safe, harassment-free, and respectful environment for all participants, in accordance to <a href="https://nips.cc/public/CodeOfConduct">NeurIPS 2021 Code of Conduct</a>. We have formed a committee for diversity, inclusion and equity (DEI) that is responsible for ensuring that diversity is welcomed at all levels of this workshop, including the organizing committee, invited speakers, and attendees. Our DEI committee is chaired by William Moses, and further consists Assefaw Gebremedhin and Maria Gorinova. 
+
+<br/>
+
+<center> <h3> Contact </h3> </center>
+For questions or concerns regarding any aspect of the workshop, including the program, speakers, paper submissions, DEI, you may contact the organizers at <a href="mailto:diffprogramming@mit.edu">diffprogramming@mit.edu</a>.
 
 <br/>
