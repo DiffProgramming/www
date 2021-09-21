@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Call for Papers"
       url: /call-for-papers
     - title: "Invited Speakers"
-      url: /invited-speakers
+      url: /speakers
     - title: "Program committee"
       url: /program-committee
     - title: "Organizers"
