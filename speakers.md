@@ -35,7 +35,7 @@ title: Invited Speakers
 <h4 align="left"> Sergey Ovchinnikov </h4>
 <h5 align="left"> "Differentiable Programming for Protein Sequences and Structure" </h5></div></div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div class="container">
 <div class="team-member">
