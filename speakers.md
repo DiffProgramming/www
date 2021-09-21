@@ -20,7 +20,7 @@ title: Invited Speakers
 <h4 align="left"> Patrick Heimbach  </h4>
 <h5 align="left"> "Learning from Data through the Lens of Ocean Models, Surrogates, and their Derivatives" </h5></div></div>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <div class="container">
 <div class="team-member">
@@ -35,7 +35,7 @@ title: Invited Speakers
 <h4 align="left"> Sergey Ovchinnikov </h4>
 <h5 align="left"> "Differentiable Programming for Protein Sequences and Structure" </h5></div></div>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <div class="container">
 <div class="team-member">
@@ -49,3 +49,5 @@ title: Invited Speakers
 </div>
 <h4 align="left"> Adam Paszke </h4>
 <h5 align="left"> "Dex and JAX" </h5></div></div>
+
+<br/><br/><br/><br/><br/><br/>
