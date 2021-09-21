@@ -34,3 +34,18 @@ title: Invited Speakers
 </div>
 <h4 align="left"> Sergey Ovchinnikov </h4>
 <h5 align="left"> "Differentiable Programming for Protein Sequences and Structure" </h5></div></div>
+
+<br/><br/><br/><br/><br/>
+
+<div class="container">
+<div class="team-member">
+<div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: 5px; text-align:center">
+<img class="mx-auto rounded-circle" src="/images/adam-paszke.jpg" alt="" >
+<br/><br/>
+<ul class="social-buttonss">
+<li class="list-inline-item"><a href="https://twitter.com/apaszke"><i class="fab fa-twitter"></i></a></li>
+<li class="list-inline-item"><a href="http://apaszke.github.io/"><i class="fas fa-globe"></i></a></li>
+</ul>
+</div>
+<h4 align="left"> Adam Paszke </h4>
+<h5 align="left"> "Dex and JAX" </h5></div></div>
