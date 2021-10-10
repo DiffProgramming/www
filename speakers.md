@@ -98,7 +98,7 @@ title: Invited Speakers
 <div class="container">
 <div class="team-member">
 <div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: 5px; text-align:center">
-<img class="mx-auto rounded-circle" src="/images/yuan-zhou.png" alt="" >
+<img class="mx-auto rounded-circle" src="/images/yuan-zhou.jpg" alt="" >
 <br/><br/>
 <ul class="social-buttonss">
 <li class="list-inline-item"><a href="https://twitter.com/yuaanzhou"><i class="fab fa-twitter"></i></a></li>
