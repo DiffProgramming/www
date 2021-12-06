@@ -58,3 +58,10 @@ We are committed to providing a safe, harassment-free, and respectful environmen
 For questions or concerns regarding any aspect of the workshop, including the program, speakers, paper submissions, DEI, you may contact the organizers at <a href="mailto:diffprogramming@mit.edu">diffprogramming@mit.edu</a>.
 
 <br/>
+
+
+<center> <h3> Sponsors </h3> </center>
+
+<a href="https://www.google.com/"> <img src="/imgages/google.png" style="height:60px;"> </a>
+
+<br/>
