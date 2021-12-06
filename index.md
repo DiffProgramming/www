@@ -62,6 +62,6 @@ For questions or concerns regarding any aspect of the workshop, including the pr
 
 <center> <h3> Sponsors </h3> </center>
 
-<a href="https://www.google.com/"> <img src="/imgages/google.png" style="height:60px;"> </a>
+<a href="https://www.google.com/"> <img src="/images/google.png" style="height:60px;"> </a>
 
 <br/>
