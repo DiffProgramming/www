@@ -108,4 +108,19 @@ title: Invited Speakers
 <h4 align="left"> Yuan Zhou </h4>
 <h5 align="left"> "SYMPAIS: SYMbolic Parallel Adaptive Importance Sampling for Probabilistic Program Analysis" </h5></div></div>
 
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div class="container">
+<div class="team-member">
+<div style="float: left; margin-right: 30px; margin-bottom: 30px; margin-top: 5px; text-align:center">
+<img class="mx-auto rounded-circle" src="/images/keno.png" alt="" >
+<br/><br/>
+<ul class="social-buttonss">
+<li class="list-inline-item"><a href="https://twitter.com/KenoFischer"><i class="fab fa-twitter"></i></a></li>
+<li class="list-inline-item"><a href="https://github.com/Keno"><i class="fas fa-globe"></i></a></li>
+</ul>
+</div>
+<h4 align="left"> Keno Fischer </h4>
+<h5 align="left"> "Diffractor.jl: High Level, High Performance AD for Julia" </h5></div></div>
+
 <br/><br/><br/><br/><br/><br/>
