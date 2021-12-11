@@ -13,10 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "Home"
       url: /
-    - title: "Call for Papers"
-      url: /call-for-papers
+    - title: "Schedule"
+      url: /schedule
     - title: "Invited Speakers"
       url: /speakers
+    - title: "Call for Papers"
+      url: /call-for-papers
     - title: "Program committee"
       url: /program-committee
     - title: "Organizers"
