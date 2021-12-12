@@ -194,7 +194,7 @@ title: Schedule
 
 <br/><br/>
 
-### Session 3: Poster Session (link to gather.town)[https://eventhosts.gather.town/dn0UpfVPn9AH2SCe/differential-programming]
+### Session 3: Poster Session [link to gather.town](https://eventhosts.gather.town/dn0UpfVPn9AH2SCe/differential-programming)
 **Chair**:  William Moses (*MIT*)
 <br/>
 <table class="schedule">
