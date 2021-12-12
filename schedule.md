@@ -11,7 +11,7 @@ title: Schedule
 <br/>
 <table class="schedule">
     <thead>
-        <th class="time">CST</th>
+        <th class="time">BJT</th>
         <th class="time">GMT</th>
         <th class="time">PST</th>
         <th></th>
@@ -114,7 +114,7 @@ title: Schedule
 <br/>
 <table class="schedule">
     <thead>
-        <th class="time">CST</th>
+        <th class="time">BJT</th>
         <th class="time">GMT</th>
         <th class="time">PST</th>
         <th></th>
@@ -199,7 +199,7 @@ title: Schedule
 <br/>
 <table class="schedule">
     <thead>
-        <th class="time">CST</th>
+        <th class="time">BJT</th>
         <th class="time">GMT</th>
         <th class="time">PST</th>
         <th></th>
@@ -243,7 +243,7 @@ title: Schedule
 <br/>
 <table class="schedule">
     <thead>
-        <th class="time">CST</th>
+        <th class="time">BJT</th>
         <th class="time">GMT</th>
         <th class="time">PST</th>
         <th></th>
@@ -327,7 +327,7 @@ title: Schedule
 <br/>
 <table class="schedule">
     <thead>
-        <th class="time">CST</th>
+        <th class="time">BJT</th>
         <th class="time">GMT</th>
         <th class="time">PST</th>
         <th></th>
