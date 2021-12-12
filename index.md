@@ -51,7 +51,9 @@ The explicit goals of the workshop are to:
 <br/>
 
 <center> <h3> Code of Conduct </h3> </center>
-We are committed to providing a safe, harassment-free, and respectful environment for all participants, in accordance to <a href="https://nips.cc/public/CodeOfConduct">NeurIPS 2021 Code of Conduct</a>. We have formed a committee for diversity, inclusion and equity (DEI) that is responsible for ensuring that diversity is welcomed at all levels of this workshop, including the organizing committee, invited speakers, and attendees. Our DEI committee is chaired by William Moses, and further consists of Assefaw Gebremedhin and Maria Gorinova. 
+We are committed to providing a safe, harassment-free, and respectful environment for all participants, in accordance to <a href="https://nips.cc/public/CodeOfConduct">NeurIPS 2021 Code of Conduct</a>. We have formed a committee for diversity, inclusion and equity (DEI) that is responsible for ensuring that diversity is welcomed at all levels of this workshop, including the organizing committee, invited speakers, and attendees. Our DEI sub-committee is chaired by [William Moses](mailto:wmoses@mit.edu), and further consists of [Assefaw Gebremedhin](mailto:assefaw.gebremedhin@wsu.edu) and [Maria Gorinova](mailto:M.Gorinova@ed.ac.uk).
+
+If you have any feedback, suggestions, questions, or concerns, please reach out to the DEI sub-comittee (emails linked above), the [workshop organizer list](mailto:diffprogramming@mit.edu), or [NeurIPShotline@gmail.com](mailto:NeurIPShotline@gmail.com). More information on DEI for the whole of NeurIPS can be found at [https://neurips.cc/public/DiversityInclusion](https://neurips.cc/public/DiversityInclusion), with a NeurIPS-wide contact form available [here](https://neurips.cc/Help/Contact?select=Conduct).
 
 <br/>
 
