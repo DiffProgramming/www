@@ -6,7 +6,7 @@ title: Schedule
 ## Schedule 
 
 <br/>
-### Session 1
+### Session 1 [link to SlidesLive](https://nips.cc/virtual/2021/workshop/21882)
 **Chair**:  Maria I. Gorinova (*Twitter*)
 <br/>
 <table class="schedule">
@@ -109,7 +109,7 @@ title: Schedule
 </table>
 
 <br/><br/>
-### Session 2
+### Session 2 [link to SlidesLive](https://nips.cc/virtual/2021/workshop/21882)
 **Chair**:  Jan Hückelheim (*Argonne National Laboratory*)
 <br/>
 <table class="schedule">
@@ -238,7 +238,7 @@ title: Schedule
 </table>
 
 <br/><br/>
-### Session 4
+### Session 4 [link to SlidesLive](https://nips.cc/virtual/2021/workshop/21882)
 **Chair**:  Assefaw Gebremedhin (*Washington State University*)
 <br/>
 <table class="schedule">
@@ -322,7 +322,7 @@ title: Schedule
 </table>
 
 <br/><br/>
-### Session 4
+### Session 5 [link to SlidesLive](https://nips.cc/virtual/2021/workshop/21882)
 **Chair**:  Sri Hari Krishna Narayanan (*Argonne National Laboratory*)
 <br/>
 <table class="schedule">
