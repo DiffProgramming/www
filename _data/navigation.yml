@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Home"
       url: /
-    - title: "Awards & Papers"
+    - title: "Awards and Papers"
       url: /papers-and-awards
     - title: "Schedule"
       url: /schedule
