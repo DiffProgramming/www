@@ -20,3 +20,23 @@ ul.social-buttonss li a {
   }
 
 ul.social-buttonss li a:active, ul.social-buttons li a:focus, ul.social-buttonss li a:hover { background-color: #fed136; }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #fff5d2;
+}
+
+tr:nth-child(odd) {
+  background-color: #fff9e6;
+}
