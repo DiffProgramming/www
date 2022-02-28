@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       url: /awards
     - title: "Schedule"
       url: /schedule
+    - title: "Accepted Papers"
+      url: /accepted-papers
     - title: "Invited Speakers"
       url: /speakers
     - title: "Program committee"
